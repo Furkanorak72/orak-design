@@ -14,7 +14,7 @@ export default async function Navbar() {
             <div className="container mx-auto px-4 h-16 flex items-center justify-between">
                 <Link href="/" className="flex items-center space-x-2">
                     <span className="text-2xl font-bold tracking-widest font-serif text-black dark:text-white">
-                        OrakDesign
+                        OrakShop
                     </span>
                 </Link>
 

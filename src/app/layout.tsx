@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "OrakDesign | Minimalist Giyim",
+  title: "OrakShop | Minimalist Giyim",
   description: "Tarzınızı yansıtın modern T-shirt ve Kazak koleksiyonu.",
   verification: {
     google: "WkcByl32f663xriv5lnIJNtZdQ9n1G0FsdodaBArRzY",
