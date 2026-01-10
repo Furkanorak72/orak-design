@@ -272,7 +272,7 @@ export default function DesignPage() {
             <div className="flex-1 relative bg-gradient-to-b from-gray-100 to-gray-300 overflow-hidden">
                 {/* Logo Overlay */}
                 <div className="absolute top-6 left-6 z-10 pointer-events-none opacity-80">
-                    <h3 className="text-xl font-serif font-bold tracking-widest text-black/40 uppercase">Orak<span className="font-extrabold text-black/60">Design</span></h3>
+                    <h3 className="text-xl font-serif font-bold tracking-widest text-black/40 uppercase">Orak<span className="font-extrabold text-black/60">Shop</span></h3>
                 </div>
 
                 {/* Face Controls */}

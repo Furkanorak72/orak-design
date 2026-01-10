@@ -17,7 +17,7 @@ export default async function Home() {
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="space-y-2">
               <h1 className="text-4xl font-light tracking-widest sm:text-5xl md:text-6xl text-white font-serif">
-                Orak<span className="font-bold">Design</span>
+                Orak<span className="font-bold">Shop</span>
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-200 md:text-xl font-light tracking-wide mt-4">
                 Sadelik ve şıklığın kusursuz uyumu. Yeni sezon T-shirt ve Kazak koleksiyonunu keşfedin.
