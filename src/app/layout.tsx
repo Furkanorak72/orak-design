@@ -14,10 +14,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "OrakShop | Minimalist Giyim",
-  description: "Tarzınızı yansıtın modern T-shirt ve Kazak koleksiyonu.",
+  title: "OrakShop | Minimalist ve Şık Giyim",
+  description: "Yeni sezon T-shirt ve Kazak koleksiyonunu keşfedin. Sadelik ve şıklığın adresi OrakShop.",
+  applicationName: "OrakShop",
+  keywords: ["giyim", "t-shirt", "kazak", "minimalist", "orakshop", "moda"],
   verification: {
-    google: "WkcByl32f663xriv5lnIJNtZdQ9n1G0FsdodaBArRzY",
+    google: "dcJi6iC8BMRF2jJkcal30IlCAqAGT0DLLB8DC2_yukQ",
   },
 };
 
